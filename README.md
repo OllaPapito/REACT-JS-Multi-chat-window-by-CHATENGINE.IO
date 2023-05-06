@@ -63,5 +63,5 @@ Testing as in-house development (nodemon)
 
 ---
 
-PICS: <img src="../screenshots/firstpage.jpg" alt="">
-<img src="../screenshots/multichannel.jpg" alt="">
+PICS: <img src="./screenshots/firstpage.jpg" alt="">
+<img src="./screenshots/multichannel.jpg" alt="">
